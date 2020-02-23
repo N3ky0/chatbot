@@ -1,11 +1,18 @@
 # ChatBot
+***
 
 ## Authors
 This modified version was created by Samantha Heinbecker
 
- The important files are index.js and game.js.
-
 ## Getting Started
+Download the project from github.
+Open the cmd
+Chage the directory to that of thet project.
+ $ cd your-project-location
+ $ npm start
+ You should then see "Example app listening on port 3000!" *the port may change*
+Open up your browser and type into the url "localhost:3000"
+
 
 ## Built With
 es6 and vs6 for twilio and testing on the web.
