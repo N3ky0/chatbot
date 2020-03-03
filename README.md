@@ -5,13 +5,20 @@
 This modified version was created by Samantha Heinbecker
 
 ## Getting Started
-Download the project from github.
-Open the cmd
-Chage the directory to that of thet project.
-  $ cd your-project-location
-  $ npm start
- You should then see "Example app listening on port 3000!" *the port may change*
-Open up your browser and type into the url "localhost:3000" and the app should appear.
+# Getting Started
+Download the project from github. Open the cmd Chage the directory to that of thet project. 
+
+`cd your-project-location `
+
+`npm start`
+
+ You should then see "Example app listening on port 3000!" **the port may change**
+
+Open up your browser and type into the url
+
+>  localhost:3000
+
+and the app should appear on your browser screen.
 
 ## Deployment
 Log on to the deployment device of your choice. *This example uses heroku*
